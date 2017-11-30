@@ -1,5 +1,5 @@
 # Metode optimizacije
-## Računarske vežbe
+### Računarske vežbe
 **Vežba 1** - linearno programiranje  
 **Vežba 2** - Njutnova i metoda sečice  
 **Vežba 3** - Fibonačijeva i metoda zlatnog preseka  
