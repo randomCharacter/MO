@@ -1,6 +1,6 @@
 # Metode optimizacije
 ### Računarske vežbe
-**Vežba 1** - linearno programiranje  
+**Vežba 1** - Linearno programiranje (simplex, mrežno programiranje, transportni problem)  
 **Vežba 2** - Njutnova i metoda sečice  
 **Vežba 3** - Fibonačijeva i metoda zlatnog preseka  
 **Vežba 4** - Kubna i metoda parabole  
