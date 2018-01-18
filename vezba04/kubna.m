@@ -1,7 +1,7 @@
 function [ x, fx, n ] = kubna(fun, dfun, x1, x2, eps)
     X = [x1; x2];
     Y = [[1; 1] X X.^2 X.^3
-    [0; 0] [1; 1] 2*X  3*X.^2];
+    	[0; 0] [1; 1] 2*X  3*X.^2];
     F = [feval(fun, X); feval(dfun,X)];
     abcd = Y \ F;
     b = abcd(2);
